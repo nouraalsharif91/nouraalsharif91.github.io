@@ -1763,7 +1763,10 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/tourism-1600x900.jpg");
+  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
+}
+.cid-qTkA127IK8 H1 {
+  color: #498f4a;
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
@@ -1831,6 +1834,11 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-rff1Gz5n9w {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background5.jpg");
 }
 .cid-rfeJWZ7T81 {
   background-image: url("../../../assets/images/jumbotron.jpg");
